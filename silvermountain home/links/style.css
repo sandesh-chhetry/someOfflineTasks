@@ -1,0 +1,129 @@
+*{
+	margin:0px;
+}
+
+.container-fluid{
+	background-image:url('images/background.jpeg'); 
+	background-size:cover; 
+	position:relative;
+	
+}
+
+
+/* ************float left section */
+.float_left{
+	min-width: 420px; 
+	border-bottom: 1px solid gray;
+}
+
+.col-7 {
+	min-width: 420px; 
+	border-bottom: 1px solid gray;
+}
+
+.col-7 h1{
+	font-size:70px; 
+	font-family:Elephant;
+	font-style:bold;
+	color:white;	
+}
+
+.col-7 h1 p{
+	font-size:45px;
+	padding-top:0px;
+}
+
+.footer{
+	float: left;
+	color:white;
+	font-size: 150%;	
+	height:;
+	min-width:420px;
+	font-weight: bold;
+}
+
+/* ************float right with 4 section */
+.col-5 h1{
+	
+	font-size:70px; 
+	font-family:itallic; 
+	color:rgb(50 191 50);
+	padding-top:20px;
+	font-style:bold;
+	font-family:Elephant;
+
+}
+
+.leftDiv{
+	padding: 5px; 
+	background:lavender; 
+	height:auto; 
+	min-width: 420px; 
+	text-align:center; 
+	margin-bottom:10px;
+	opacity:0.9;
+}
+
+.crossCountry{
+	padding-top:0px
+}
+
+.crossCountry img{
+	margin-top:15px;
+}
+
+.leftDiv img{
+	height:130px; 
+	width:130px; 
+	float:left; 
+	border-radius:130px; 
+	border:5px solid white;	
+}
+
+.leftDiv h3{
+	padding: 10px 10px 0px 10px;
+	
+}
+
+.leftDiv p{
+	font-size:15px;
+	padding:0px 10px 0px 25%;
+}
+
+.leftDiv:hover{
+	cursor:pointer;
+}
+
+.hiddenFile{
+	position: absolute; 
+	text-align :justify; 
+	top: 10px; 
+	background:gray; 
+	color:white; 
+	opacity:0.95; 
+	margin: 10px; 
+	padding: 20px; 
+	height: auto; 
+	display: none;
+}
+
+.hiddenFile center{
+	font-style:itallic; 
+	color:rgb(50 191 50);
+}
+
+.closes{
+	float: right; 
+	top:0px; 
+	background: none; 
+	color: white;
+}
+
+.img-fluid{
+	float:right; 
+	margin:50px 10px 5px 20px; 
+	width:600px; 
+	height:40;
+	opacity:;
+}
+

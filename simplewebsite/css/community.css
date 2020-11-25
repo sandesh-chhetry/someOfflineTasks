@@ -1,0 +1,39 @@
+*{
+	margin:0px;
+}
+body{
+		background-image:url('11.jpg');
+		background-size: cover;
+}
+.left{
+	color: white;
+	padding: 10px;
+}
+.left{
+	font-size: 30px;
+	font-family:Arial Black;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
+#header{
+	float: right;
+	padding: 25px 10px;
+	margin-right: 50px;
+	
+}
+#header a{
+	width: 150px;
+	background: none;
+	border: 0px;
+	font-size: 18px;
+	text-decoration:none;
+	color:white;
+	padding:20px;
+	word-spacing:3px;}
+#header a:hover{
+	color:blue;
+	box-shadow:2px 2px 2px;
+	border:2px;
+	background:white;	
+	cursor:pointer;
+}

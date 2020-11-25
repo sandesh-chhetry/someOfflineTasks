@@ -1,0 +1,103 @@
+*{
+	margin:0px;
+}
+body{
+		background-image:url('boy.png');
+		background-size: cover;
+}
+.left{
+	color:forestgreen;
+	padding: 10px;
+}
+.left{
+	font-size: 30px;
+	font-family:Arial Black;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
+#header{
+	float: right;
+	padding: 25px 10px;
+	margin-right: 50px;
+	
+}
+#header a{
+	width: 150px;
+	background: none;
+	border: 0px;
+	font-size: 18px;
+	text-decoration:none;
+	color:white;
+	padding:20px;
+	word-spacing:3px;}
+#header a:hover{
+	color:blue;
+	box-shadow:2px 2px 2px;
+	border:2px;
+	background:white;	
+	cursor:pointer;
+}
+.exercise{
+	padding-top:90px;
+	padding-left:170px;
+	color:blue;
+	font-size:21px;
+}
+.database{
+	padding-top:10px;
+	padding-LEFT:170px;
+	color:blue;
+}
+.database input{
+	padding-left:165px;
+	height:30PX;
+	border-radius:8px;
+}
+.database button{
+	width:100px;
+	font-size:20px;
+	HEIGHT:40PX;
+	border-radius:8px;
+	background:forestgreen;
+	color:white;
+}
+.database h3{
+font-size:25px;	
+}
+.database button:hover{
+	background:skyblue;
+	color:blue;
+	cursor:pointer:
+}
+.or{
+	padding-top:15px;
+	padding-right:300px;
+	color:blue;
+}
+.or select{
+	width:400px;
+	font-size:20px;
+	HEIGHT:37PX;
+	border-radius:8px;
+}
+.or H3{
+	font-size:25px;
+}
+section{
+	text-align:right;
+}
+.database{
+	float:left;
+}
+#matching h3{
+	color:forestgreen;
+	padding-left:180px;
+	padding-top:30px;
+	font-size:25px;
+}
+#border{
+	border:1px solid black;
+	width:400px;
+	height:200px;
+	margin-left:170px;
+}

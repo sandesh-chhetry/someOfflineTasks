@@ -1,0 +1,169 @@
+*{
+	margin:0px;
+}
+body{
+	background-color:rgb(210,220,220);
+}
+header{
+background:rgb(4,48,125);
+text-align:right;
+height:110px;
+}
+#left{
+	color:white;
+	font-size:60px;
+	float:left;
+	padding-top:30px;
+	padding-left:150px;
+	font:bold;
+}
+#right ul li{
+	display:inline;
+	
+}
+#right{
+	padding-top:40px;
+	padding-right:200px;
+	float:right;
+	width:41%;
+	
+}
+#email{
+	
+	color:white;
+}
+#email #email_1{
+	margin-right:80px;
+	
+}
+#email #email_2{
+	padding-right:178px;
+	
+}
+#input{
+		word-spacing:20px;
+
+}
+#input li input{
+	height:20px;
+}
+#input li button{
+	height:25px;
+}
+#password {
+	color:skyblue;
+	padding-right:136px;
+}
+
+//***************header ends here*************/
+#fake_id{
+	
+}
+
+#left_section{
+	color:boack;
+	float:left;
+	width:50%;
+	background-color:;
+}
+#left_section h1{
+	font-size:40px;
+	padding-left:150px;
+	padding-top:100px;
+	padding-bottom:px;
+	
+}
+#event{
+	font-size:20px;
+	padding-left:150px;
+	line-height:100px;
+}
+//************left section ends here**********/
+
+#fake_id{
+	
+}
+#right_section{
+	background-color:;
+	float:right;
+	width:41%;
+	background-color:;
+}
+#right_section h1{
+	font-size:50px;
+	padding-top:30px;	
+	padding-bottom:10px;
+}
+#right_section p{
+	font-size:25px;
+	padding-bottom:15px;
+}
+#name{
+	word-spacing:15px;
+	padding-bottom:14px;
+}
+#name input{
+	height:40px;
+	width:40%;
+	border-radius:8px;
+	font-size:20px;
+	cursor:pointer;
+}
+#mobile{
+	padding-bottom:14px;
+}
+#mobile input{
+	height:40px;
+	width:84%;
+	border-radius:8px;
+	font-size:20px;	
+	cursor:pointer;
+}
+#new_password input{
+	height:40px;
+	width:84%;
+	border-radius:8px;
+	font-size:20px;		
+	cursor:pointer;
+}
+#new_password{
+	padding-bottom:25px;
+}
+//**********name,mobile and password ends here****/
+#fake_id{
+	
+}
+#birthday select{
+	height:40px;
+	width:12%;	
+}
+
+#gender{
+	padding-top:20px;
+	word-spacing:30px;
+	font-size:20px;
+	padding-bottom:20px;
+	cursor:pointer;
+}
+.ppr{
+	font-size:15px;
+	padding-right:250px;
+	padding-bottom:20px;
+}
+.sign_up button{
+	height:50px;
+	width:250px;
+	font-size:25px;
+	border-radius:8px;
+	background-color:green;
+	cursor:pointer;
+}
+
+
+
+
+
+
+
+
+

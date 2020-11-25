@@ -1,0 +1,87 @@
+*{
+	margin:0px;
+}
+body{
+		background-image:url('food.png');
+		background-size: cover;
+}
+.left{
+	color:forestgreen;
+	padding: 10px;
+}
+.left{
+	font-size: 30px;
+	font-family:Arial Black;
+	font-weight: bold;
+	letter-spacing: 7px;
+}
+#header{
+	float: right;
+	padding: 25px 10px;
+	margin-right: 50px;
+	
+}
+#header a{
+	width: 150px;
+	background: none;
+	border: 0px;
+	font-size: 18px;
+	text-decoration:none;
+	color:white;
+	padding:20px;
+	word-spacing:3px;}
+#header a:hover{
+	color:blue;
+	box-shadow:2px 2px 2px;
+	border:2px;
+	background:white;	
+	cursor:pointer;
+}
+.form{
+	padding-left:15em;
+	padding-top:4em;
+	font-size:20px;
+	color:teal;
+}
+.form input{
+width:300px;
+border-radius:6px;
+height:25px;	
+}
+.form button{
+	background:forestgreen;
+	color:white;
+	width:120px;
+	height:32px;
+	font-size:20px;
+	border-radius:6px;
+}
+.form button:hover{
+	background:skyblue;
+	color:blue;
+	cursor:pointer;
+}
+.food{
+	width:200px;
+	height:300px;
+	padding:10px;
+	margin-left:200px;
+	color:green;
+	padding-top:40px;
+}
+.food h3:hover{
+	color:blue;
+	cursor:pointer;
+}
+.food h3{
+	font-size:20px;
+}
+.food h2{
+	color:blue;
+	font-size:28px;
+}
+.food h2:hover{
+	color:white;
+	background:skyblue;
+	cursor:pointer;
+}
